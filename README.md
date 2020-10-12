@@ -10,3 +10,9 @@ The easy challenge was to create
 The moderate challenge was to color render according to increase or decrease in yearly change
           - Green color for increase in yearly change
           - Red color for decrease in yearly change
+          
+The hard challenge was to create three additional columns with three rows to
+          - Calculate maximum increase in yearly change
+          - Calculate minimum decrease in yearly change
+          - Calculate greatest total stock volume
+          - Corresponding tickers for each of the aforementioned calculation
